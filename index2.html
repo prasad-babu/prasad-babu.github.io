@@ -3,10 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <title>Title</title>
+    <script language="JavaScript">
+        function load() {
+            var iframe = document.getElementById('ifr').contentWindow;
+            iframe.postMessage("message","https://google.com");
+        }
+    </script>
 </head>
 <body>
 <h1>Hi there, Prasadu Babu Dandu!</h1>
 <p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
-<iframe src="https://google.com" height="500pt" width="500pt"></iframe>
+<p><a onclick="load();return false;">Load frame</a></p>
+<iframe id="ifr" height="500pt" width="500pt"></iframe>
 </body>
 </html>
