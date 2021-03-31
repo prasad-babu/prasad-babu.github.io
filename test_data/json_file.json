@@ -4,20 +4,20 @@
 		"inference_name": "Test_data",
 		"status": "PIPELINE_PENDING",
 		"start_date": "2021-03-30T10:15:30+00:00",
-		"last_update_date": "2021-03-30T12:15:30+00:00"
+		"last_update_date": "2021-03-31T12:15:30+00:00"
 	},
 	{
 		"request_id": "23a9ae0c-9fad-424a-ac8f-e54350e075c0",
 		"inference_name": "Test_data",
 		"status": "PIPELINE_COMPLETED",
 		"start_date": "2021-03-30T11:15:30Z",
-		"last_update_date": "2021-03-30T14:15:30+00:00"
+		"last_update_date": "2021-03-31T14:15:30+00:00"
 	},
 	{
 		"request_id": "85380b3f-8d62-40cf-b05f-37479fa783b0",
 		"inference_name": "Test_data",
 		"status": "PIPELINE_IN_PROGRESS",
 		"start_date": "2021-03-30T08:15:30+00:00",
-		"last_update_date": "2021-03-30T09:15:30+00:00"
+		"last_update_date": "2021-03-31T09:15:30+00:00"
 	}
 ]
