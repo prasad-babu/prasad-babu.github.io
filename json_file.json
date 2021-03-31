@@ -1,28 +1,30 @@
-{
-    "name": "Gaurav Ghati",
-    "phone": "+91 9067365762",
-    "mail": "gauravghati225@gmail.com",
-
-    "bio": "MY BIO",
-    "fun": "FUN STATEMENT",
-
-    "github": "https://github.com/gauravghati/",
-    "twitter": "https://twitter.com/GauravGhati/",
-    "linkedin": "http://linkedin.com/in/gauravghati/",
-
-    "aboutme": {
-        "para1": "This is Paragraph 1",
-        "para2": "This is Paragraph 2"
-    },
-
-    "volunteer": {
-        "tfi": {
-            "heading": "Teach For India",
-            "description": "description of TFI"
-        },
-        "pisb": {
-            "heading": "PICT IEEE Student Branch",
-            "description": "description of PISB"
-        }
-    }
-}
+[
+	{
+		"request_id": "req1",
+		"inference_name": "name1",
+		"status": "PIPELINE_PENDING",
+		"start_date": "2011-12-03T10:15:30+00:00",
+		"last_update_date": "2011-12-03T10:15:30+00:00"
+	},
+	{
+		"request_id": "req2",
+		"inference_name": "name2",
+		"status": "PIPELINE_COMPLETED",
+		"start_date": "2011-12-03T10:15:30Z",
+		"last_update_date": "2011-12-03T10:15:30+00:00"
+	},
+	{
+		"request_id": "req3",
+		"inference_name": "name3",
+		"status": "PIPELINE_IN_PROGRESS",
+		"start_date": "2011-12-03T10:15:30+00:00",
+		"last_update_date": "2011-12-03T10:15:30+00:00"
+	},
+	{
+		"request_id": "req4",
+		"inference_name": "name4",
+		"status": "PIPELINE_FAILED",
+		"start_date": "2011-12-03T10:15:30+00:00",
+		"last_update_date": "2011-12-03T10:15:30+00:00"
+	}
+]
