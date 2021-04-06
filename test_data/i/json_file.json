@@ -19,5 +19,12 @@
 		"status": "PIPELINE_IN_PROGRESS",
 		"start_date": "2021-03-30T08:15:30+00:00",
 		"last_update_date": "2021-04-05T09:15:30+00:00"
+	},
+	{
+		"request_id": "a1c8bb4c-e587-4184-8f04-eb8a62589193",
+		"inference_name": "Test_data",
+		"status": "PIPELINE_IN_PROGRESS",
+		"start_date": "2021-04-06T08:15:30+00:00",
+		"last_update_date": "2021-04-06T09:15:30+00:00"
 	}
 ]
