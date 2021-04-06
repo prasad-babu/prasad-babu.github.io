@@ -17,6 +17,7 @@
 		"request_id": "85380b3f-8d62-40cf-b05f-37479fa783b0",
 		"inference_name": "Test_data",
 		"status": "PIPELINE_IN_PROGRESS",
+		"exec_arn": "askdjakdjaskj-asdsakjdsa-asdklasjdaldad",
 		"start_date": "2021-03-30T08:15:30+00:00",
 		"last_update_date": "2021-04-05T09:15:30+00:00"
 	},
