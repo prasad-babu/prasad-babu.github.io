@@ -1,31 +1,9 @@
 [
 	{
-		"request_id": "fba78923-8bbd-4602-8baa-25f40dc27384",
-		"inference_name": "Test_data",
+		"request_id": "bfbcc184-87fc-4cea-b5a3-427552fa4b7b",
+		"inference_name": "TEST_USERS_LIST",
 		"status": "PIPELINE_PENDING",
-		"start_date": "2021-03-30T10:15:30+00:00",
-		"last_update_date": "2021-04-05T12:15:30+00:00"
-	},
-	{
-		"request_id": "23a9ae0c-9fad-424a-ac8f-e54350e075c0",
-		"inference_name": "Test_data",
-		"status": "PIPELINE_COMPLETED",
-		"start_date": "2021-03-30T11:15:30Z",
-		"last_update_date": "2021-04-05T14:15:30+00:00"
-	},
-	{
-		"request_id": "85380b3f-8d62-40cf-b05f-37479fa783b0",
-		"inference_name": "Test_data",
-		"status": "PIPELINE_IN_PROGRESS",
-		"exec_arn": "askdjakdjaskj-asdsakjdsa-asdklasjdaldad",
-		"start_date": "2021-03-30T08:15:30+00:00",
-		"last_update_date": "2021-04-05T09:15:30+00:00"
-	},
-	{
-		"request_id": "a1c8bb4c-e587-4184-8f04-eb8a62589193",
-		"inference_name": "Test_data",
-		"status": "PIPELINE_IN_PROGRESS",
-		"start_date": "2021-04-06T08:15:30+00:00",
-		"last_update_date": "2021-04-06T09:15:30+00:00"
+		"start_date": "2021-04-16T10:15:30+00:00",
+		"last_update_date": "2021-04-17T12:15:30+00:00"
 	}
 ]
