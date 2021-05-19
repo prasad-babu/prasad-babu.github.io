@@ -1,9 +1,9 @@
 [
 	{
-		"request_id": "bfbcc184-87fc-4cea-b5a3-427552fa4b7b",
+		"request_id": "2d68ef04-7496-4dbe-a6e9-533d5355d1ef",
 		"inference_name": "TEST_USERS_LIST",
 		"status": "PIPELINE_COMPLETED",
 		"start_date": "2021-04-16T10:15:30+00:00",
-		"last_update_date": "2021-04-17T12:15:30+00:00"
+		"last_update_date": "2021-05-17T12:15:30+00:00"
 	}
 ]
